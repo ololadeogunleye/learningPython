@@ -52,4 +52,3 @@ while True:
         print('You lose!')
         losses = losses + 1
             
-print('%s win, %s losses, %s ties'%(wins, losses, ties))
